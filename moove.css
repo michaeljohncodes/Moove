@@ -51,6 +51,13 @@ body{
     text-transform: uppercase;
     font-weight: bold;
 }
+.nav_links :last-child:hover{
+    background-color:#FF4300;
+    border-radius: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 .mini_button{
     display: none;
 }
@@ -488,7 +495,7 @@ footer a{
 }
 .footer_layer1_box2_nav a{
     padding-left:25px;
-    font-weight: 400;
+    font-weight: lighter;
 }
 
 .footer_layer1_box2_region{
